@@ -1,7 +1,7 @@
 # Algorithm Visualizer 🧠
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AsakeQ/algorithm-visualizer/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/AsakeQ/algorithm-visualizer)](https://github.com/AsakeQ/algorithm-visualizer/stargazers)]
+[![GitHub stars](https://img.shields.io/github/stars/AsakeQ/algorithm-visualizer)](https://github.com/AsakeQ/algorithm-visualizer/stargazers)
 
 
 
