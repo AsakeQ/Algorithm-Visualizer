@@ -2,8 +2,8 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/algorithm-visualizer/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/algorithm-visualizer)](https://github.com/your-username/algorithm-visualizer/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/algorithm-visualizer)](https://github.com/your-username/algorithm-visualizer/issues)
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://your-username.github.io/algorithm-visualizer)
+[![GitHub issues](https://github.com/AsakeQ/Algorithm-Visualizer/issues)
+
 
 Интерактивная визуализация алгоритмов сортировки и поиска пути с научным обоснованием эффективности.
 
@@ -40,10 +40,6 @@
 - Подсчет операций сравнения и обменов
 - Визуализация сложности алгоритмов
 - Генерация отчетов в реальном времени
-
-## 🚀 Живое демо
-
-[Открыть live демо](https://AsakeQ.github.io/algorithm-visualizer)
 
 ## 📦 Установка и запуск
 
