@@ -54,7 +54,7 @@
 ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/algorithm-visualizer.git
+git clone https://github.com/AsakeQ/algorithm-visualizer.git
 cd algorithm-visualizer
 
 # Установка зависимостей
