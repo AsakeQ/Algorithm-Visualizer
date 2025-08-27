@@ -43,7 +43,7 @@
 
 ## 🚀 Живое демо
 
-[Открыть live демо](https://your-username.github.io/algorithm-visualizer)
+[Открыть live демо](https://AsakeQ.github.io/algorithm-visualizer)
 
 ## 📦 Установка и запуск
 
